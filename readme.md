@@ -1,1 +1,0 @@
-# Advent Of Code 2019 Clojure solutions
